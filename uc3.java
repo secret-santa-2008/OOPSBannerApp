@@ -1,39 +1,31 @@
-public class uc3{
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+public class uc3 {
+   public uc3() {
+   }
 
-    public static void main(String[] args) {
-
-        // Letter O
-        System.out.println(String.join("", " ***** "));
-        System.out.println(String.join("", "*     *"));
-        System.out.println(String.join("", "*     *"));
-        System.out.println(String.join("", "*     *"));
-        System.out.println(String.join("", " ***** "));
-
-        System.out.println();
-
-        // Letter O
-        System.out.println(String.join("", " ***** "));
-        System.out.println(String.join("", "*     *"));
-        System.out.println(String.join("", "*     *"));
-        System.out.println(String.join("", "*     *"));
-        System.out.println(String.join("", " ***** "));
-
-        System.out.println();
-
-        // Letter P
-        System.out.println(String.join("", "****** "));
-        System.out.println(String.join("", "*     *"));
-        System.out.println(String.join("", "****** "));
-        System.out.println(String.join("", "*      "));
-        System.out.println(String.join("", "*      "));
-
-        System.out.println();
-
-        // Letter S
-        System.out.println(String.join("", " ***** "));
-        System.out.println(String.join("", "*      "));
-        System.out.println(String.join("", " ***** "));
-        System.out.println(String.join("", "      *"));
-        System.out.println(String.join("", " ***** "));
-    }
+   public static void main(String[] var0) {
+      System.out.println(String.join("", " ***** "));
+      System.out.println(String.join("", "*     *"));
+      System.out.println(String.join("", "*     *"));
+      System.out.println(String.join("", "*     *"));
+      System.out.println(String.join("", " ***** "));
+      System.out.println();
+      System.out.println(String.join("", " ***** "));
+      System.out.println(String.join("", "*     *"));
+      System.out.println(String.join("", "*     *"));
+      System.out.println(String.join("", "*     *"));
+      System.out.println(String.join("", " ***** "));
+      System.out.println();
+      System.out.println(String.join("", "****** "));
+      System.out.println(String.join("", "*     *"));
+      System.out.println(String.join("", "****** "));
+      System.out.println(String.join("", "*      "));
+      System.out.println(String.join("", "*      "));
+      System.out.println();
+      System.out.println(String.join("", " ***** "));
+      System.out.println(String.join("", "*      "));
+      System.out.println(String.join("", " ***** "));
+      System.out.println(String.join("", "      *"));
+      System.out.println(String.join("", " ***** "));
+   }
 }
